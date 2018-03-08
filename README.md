@@ -1,5 +1,5 @@
 # youtube-2-gmusic
-Rip YouTube Audiot straight to your Google Music Library.
+Rip YouTube Audio straight to your Google Music Library.
 
 ## Installation
 * youtube-dl: `pip install youtube-dl`
